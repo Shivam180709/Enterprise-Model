@@ -1,0 +1,6 @@
+{
+  "name": "USS Enterprise NCC-1701 3D Simulation",
+  "description": "Interactive procedural 3D model and flight simulation of the USS Enterprise (NCC-1701) with warp drive, tactical systems, and LCARS bridge controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
